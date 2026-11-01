@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pascal4president.github.io/sitemap.xml
