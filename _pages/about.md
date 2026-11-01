@@ -6,10 +6,11 @@ subtitle: PhD Student, School of International Development and Global Studies, U
 
 profile:
   align: right
+  image: prof_pic.jpg
   image_circular: false
 
 selected_papers: false
-social: false
+social: true
 
 announcements:
   enabled: false
