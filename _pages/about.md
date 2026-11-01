@@ -24,4 +24,4 @@ My doctoral research examines the adoption of digital and mobile technology amon
 
 Before coming to Ottawa, I completed a Master of Agricultural Science at Tohoku University in Japan, in the International Development Studies Laboratory. I hold a bachelor's degree in innovation and economics from Ritsumeikan Asia Pacific University. I have also taught IB Mathematics: Analysis and Approaches HL at a secondary school in Sendai.
 
-I grew up in Masvingo, Zimbabwe. I speak English, Japanese and Shona.
+I speak English, Japanese and Shona.
